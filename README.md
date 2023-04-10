@@ -1,0 +1,2 @@
+# friend-test
+friend test
